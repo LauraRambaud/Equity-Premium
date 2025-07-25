@@ -4,6 +4,6 @@ __pycache__/
 *.py[cod]
 *.ipynb_checkpoints
 ~$*
-*.xlsx
+.xlsx
 *.xls
 *.csv
