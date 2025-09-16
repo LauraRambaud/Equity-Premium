@@ -1,5 +1,6 @@
-Code execution:
-To run the code from scratch
+This repository contains a replication of the study “Empirical Asset Pricing via Machine Learning” (Gu, Kelly & Xiu, 2020) on a limited dataset.
+
+Order of execution:
 - First execute 1_computation, then 2_models to obtain the main test results. 
 - Then execute 5_comput_uk, followed by 6_models_uk to obtain the results on the UK dataset.
 All Excel files are already pushed on Github, so running 2_models and 7_models_uk directly also works.
